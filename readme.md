@@ -34,5 +34,9 @@ Different training mod options are cycled via the D-pad. By default, all trainin
 # Updating
 You can always find the most recent version of the Enhanced Training Mod hex on my twitter (@Linyoa) or on my GitHub (Github.com/Linyoa). Once you’ve downloaded the hex file, you can load it onto your adapter with a tool like Xloader (http://xloader.russemotto.com/). Simply open Xloader, select the hex file you downloaded,  and then select Duemilanove/Nano(ATmega328) as the device, and make sure you're using the correct COM port (it should be the one that shows up when you plug your board's USB cable in). Leave all other options default, then press upload.
 
+# Building your own
+to buiild you own, check it this guide by SimpleControllers: https://docs.google.com/document/d/1gWrSWay3a0utMu--3GWUzfrxPZzdtf34wqbHLplC7hE/edit?usp=sharing
+If you have any problems with the guide, try joining the CustomGCC discord (discord.customg.cc) or feel free to DM me.
+
 # Contact
 If you have any questions, comments, or concerns, feel free to drop me a DM on twitter (@Linyoa). I always love hearing your feedback and ideas!
