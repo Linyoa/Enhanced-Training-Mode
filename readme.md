@@ -32,7 +32,7 @@ Different training mod options are cycled via the D-pad. By default, all trainin
 - Input Playback - Press D-Pad Up to start playing recorded inputs. Input loops on completion.
 
 # Updating
-You can always find the most recent version of the Enhanced Training Mod hex on my twitter (@Linyoa) or on my GitHub (Github.com/Linyoa). Once you’ve downloaded the hex file, you can load it onto your adapter with a tool like Xloader (http://xloader.russemotto.com/). Simply open Xloader, select the hex file you downloaded,  and then select Duemilanove/Nano(ATmega328) as the device, and make sure you're using the correct COM port (it should be the one that shows up when you plug your board's USB cable in). Leave all other options default, then press upload.
+You can always find the most recent version of the Enhanced Training Mod hex on my twitter (@Linyoa) or on my GitHub (https://github.com/Linyoa/Enhanced-Training-Mode). Once you’ve downloaded the hex file, you can load it onto your adapter with a tool like Xloader (http://xloader.russemotto.com/). First, pop the lid off your adapter, and plug it into your pc with a mini-usb cable. Then, simply open Xloader, select the hex file you downloaded,  and then select Duemilanove/Nano(ATmega328) as the device, and make sure you're using the correct COM port (it should be the one that shows up when you plug your board's USB cable in). Leave all other options default, then press upload.
 
 # Building your own
 to buiild you own, check it this guide by SimpleControllers: https://docs.google.com/document/d/1gWrSWay3a0utMu--3GWUzfrxPZzdtf34wqbHLplC7hE/edit?usp=sharing
