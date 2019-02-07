@@ -13,7 +13,11 @@ Please note that the training adapter is meant to be used on a second controller
 
 # Modes
 
-Different training mod options are cycled via the D-pad. By default, all training modes are off. Press the D-pad option of your choice to cycle to the next option on the list. Note that the DI and Escape options (except Up-B OOS) won’t start until you hit the training CPU, because they’re triggered by rumble.
+The adapter features two different operation modes: basic and advanced. In basic mode, all options are triggered immedietly upon selecting them. This means, for example, if you pick Left/Right DI while in basic mode, the CPU will immedietly start dash dancing in place. Additionally, less features are avialable in basic mode. Advanced mode, on the other hand, does not activate the DI or Escape options you select until the CPU gets hit (or something else triggers rumble). The reason for this split is that when you set the Training CPU in training mode to "control", the game will never trigger rumble on that controller. Therefore, you should only use advanced mode to either control the player character in training mode (rather than the cpu) or practice in a regular match. Two switch between modes, hold start when plugging the controller in.
+
+Different training mod options are cycled via the D-pad. By default, all training modes are off. Press the D-pad option of your choice to cycle to the next option on the list. Press start to turn all modes off again.
+
+# Basic Mode
 
 - DI Modes (D-Pad Left)
 	- Random Left / Right DI - Switches between full left and full right DI every frame.
@@ -26,10 +30,20 @@ Different training mod options are cycled via the D-pad. By default, all trainin
 	- Airdodge - Airdodges every other frame.
 	- Jump - Jumps every other frame.
 	- Down-B - The CPU will use down special every other frame. Useful when combined with down special like rest or pokemon change.
-	- Up-B OOS - The CPU will hold shield. After a hit connects on shield, the CPU will immediately Up-B out of shield. NOTE: Patch 2.0 removed this option select. Will be added back in soon.
+	- Up-B OOS - The CPU will hold shield. After a hit connects on shield
 
 - Input Recording - Press D-Pad down to start recording inputs (for up to 400 frames. Press D-pad down again to stop recording inputs.
 - Input Playback - Press D-Pad Up to start playing recorded inputs. Input loops on completion.
+
+# Advanced Mode
+
+In advanced mode, DI and Escape options are only triggered on hit, rather than immedietly. Additionally, the following options are enabled:
+
+- OOS Options (D-Pad Right + L)
+	- Up-B OOS - The CPU will hold shield. After a hit connects on shield, it will immedietly up-B OOS
+	- Up-Smash OOS - The CPU will hold shield. After a hit connects on shield, it will immedietly up-smash OOS
+	- Grab OOS - The CPU will hold shield. After a hit connects on shield, it will immedietly grab OOS
+	- Nair OOS - The CPU will hold shield. After a hit connects on shield, it will immedietly nair OOS
 
 # Updating
 You can always find the most recent version of the Enhanced Training Mod hex on my twitter (@Linyoa) or on my GitHub (https://github.com/Linyoa/Enhanced-Training-Mode). Once you’ve downloaded the hex file, you can load it onto your adapter with a tool like Xloader (http://xloader.russemotto.com/). First, pop the lid off your adapter, and plug it into your pc with a mini-usb cable. Then, simply open Xloader, select the hex file you downloaded,  and then select Duemilanove/Nano(ATmega328) as the device, and make sure you're using the correct COM port (it should be the one that shows up when you plug your board's USB cable in). Leave all other options default, then press upload.
