@@ -44,6 +44,10 @@ In advanced mode, DI and Escape options are only triggered on hit, rather than i
 	- Up-Smash OOS - The CPU will hold shield. After a hit connects on shield, it will immedietly up-smash OOS
 	- Grab OOS - The CPU will hold shield. After a hit connects on shield, it will immedietly grab OOS
 	- Nair OOS - The CPU will hold shield. After a hit connects on shield, it will immedietly nair OOS
+	
+# NintendoSpy
+
+You can enter NintendoSpy mode by holding D-Pad down on plug in. When in Nintendo Spy mode, training features are disabled, but the input display is enabled. Simply download NintendoSpy here: https://github.com/jaburns/NintendoSpy/releases/tag/v1.10.1 and plug your adapter into your PC via a mini-usb casble.
 
 # Updating
 You can always find the most recent version of the Enhanced Training Mod hex on my twitter (@Linyoa) or on my GitHub (https://github.com/Linyoa/Enhanced-Training-Mode). Once you’ve downloaded the hex file, you can load it onto your adapter with a tool like Xloader (http://xloader.russemotto.com/). First, pop the lid off your adapter, and plug it into your pc with a mini-usb cable. Then, simply open Xloader, select the hex file you downloaded,  and then select Duemilanove/Nano(ATmega328) as the device, and make sure you're using the correct COM port (it should be the one that shows up when you plug your board's USB cable in). Leave all other options default, then press upload.
