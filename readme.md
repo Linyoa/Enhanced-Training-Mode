@@ -3,7 +3,7 @@ The adapter was born as a way to allow users to lab combos with multiple DI, SDI
 
 # Requirements
 
-While the adapter is plug and play, it does have a few requirements: Namely, a GameCube controller, as well as either an official Switch/Wii U adapter or a Mayflash adapter. Note that while the adapter supports the Gamecube or Wii, and will mostly work fine for older smash games, it is designed with Ultimate in mind. Please also note that if a Mayflash adapter is used, it must be updated to the latest firmware. Additionally, the control scheme used for the training adapter should be default controls with tap jump OFF and rumble turned ON. 
+While the adapter is plug and play, it does have a few requirements: Namely, a GameCube controller, as well as either an official Switch/WiiU adapter or a Mayflash adapter. Note that while the adapter supports the Gamecube or Wii, and will mostly work fine for older smash games, it is designed with Ultimate in mind. Please also note that if a Mayflash adapter is used, it must be updated to the latest firmware and both USB ports must be plugged in. Additionally, the control scheme used for the training adapter should be default controls with tap jump OFF and rumble turned ON. 
 
 # Getting Started
 
