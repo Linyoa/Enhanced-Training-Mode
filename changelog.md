@@ -1,3 +1,5 @@
+# Changelog
+
 - 2.4 Various bug fixes: March 2, 2019
 	- Fixes bug prevent operation for some DIY and Frostibte users
   - Fixed bug where picking escape option reset DI option
