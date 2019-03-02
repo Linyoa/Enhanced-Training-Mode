@@ -13,7 +13,7 @@ Please note that the training adapter is meant to be used on a second controller
 
 # Modes
 
-The adapter features two different operation modes: basic and advanced. In basic mode, all options are triggered immedietly upon selecting them. This means, for example, if you pick Left/Right DI while in basic mode, the CPU will immedietly start dash dancing in place. Additionally, less features are avialable in basic mode. Advanced mode, on the other hand, does not activate the DI or Escape options you select until the CPU gets hit (or something else triggers rumble). The reason for this split is that when you set the Training CPU in training mode to "control", the game will never trigger rumble on that controller. Therefore, you should only use advanced mode to either control the player character in training mode (rather than the cpu) or practice in a regular match. Two switch between modes, hold start when plugging the controller in.
+The adapter features three different operation modes: basic, advanced, and Nintendospy. In basic mode, all options are triggered immedietly upon selecting them. This means, for example, if you pick Left/Right DI while in basic mode, the CPU will immedietly start dash dancing in place. Additionally, less features are avialable in basic mode. Advanced mode, on the other hand, does not activate the DI or Escape options you select until the CPU gets hit (or something else triggers rumble). The reason for this split is that when you set the Training CPU in training mode to "control", the game will never trigger rumble on that controller. Therefore, you should only use advanced mode to either control the player character in training mode (rather than the cpu) or practice in a regular match. Two switch between modes, hold start when plugging the controller in. Also note that the adapter will remember what mode you picked last, and default to that mode.
 
 Different training mod options are cycled via the D-pad. By default, all training modes are off. Press the D-pad option of your choice to cycle to the next option on the list. Press start to turn all modes off again.
 
@@ -54,7 +54,7 @@ You can always find the most recent version of the Enhanced Training Mod hex on 
 
 # Building your own
 to build you own, check it this guide by SimpleControllers: https://docs.google.com/document/d/1gWrSWay3a0utMu--3GWUzfrxPZzdtf34wqbHLplC7hE/edit?usp=sharing
-If you have any problems with the guide, try joining the CustomGCC discord (discord.customg.cc) or feel free to DM me.
+If you have any problems with the guide, try joining the Painthouse Discord (https://discord.gg/KKq8gR9 ) or feel free to DM me.
 
 # Contact
 If you have any questions, comments, or concerns, feel free to drop me a DM on twitter (@Linyoa). I always love hearing your feedback and ideas!
