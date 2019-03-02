@@ -30,4 +30,4 @@
 	- Fixes bug prevent operation for some DIY and Frostibte users
   - Fixed bug where picking escape option reset DI option
 
-Note, this changelog is probably only somewhat accurate before 2.4, since I didn't keep a changelog back then, and just added the rest from memory
+Note: this changelog is probably only somewhat accurate before 2.4, since I didn't keep a changelog back then, and just added the rest from memory. Oops.
