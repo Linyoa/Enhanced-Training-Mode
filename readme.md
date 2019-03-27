@@ -30,7 +30,6 @@ Different training mod options are cycled via the D-pad. By default, all trainin
 	- Airdodge - Airdodges every other frame.
 	- Jump - Jumps every other frame.
 	- Down-B - The CPU will use down special every other frame. Useful when combined with down special like rest or pokemon change.
-	- Up-B OOS - The CPU will hold shield. After a hit connects on shield
 
 - Input Recording - Press D-Pad down to start recording inputs (for up to 400 frames. Press D-pad down again to stop recording inputs.
 - Input Playback - Press D-Pad Up to start playing recorded inputs. Input loops on completion.
@@ -58,3 +57,4 @@ If you have any problems with the guide, try joining the Painthouse Discord (htt
 
 # Contact
 If you have any questions, comments, or concerns, feel free to drop me a DM on twitter (@Linyoa). I always love hearing your feedback and ideas!
+And, as always, the order form if you'd like to purchase one is here: https://twitter.com/Linyoa/status/1092257000635944961
