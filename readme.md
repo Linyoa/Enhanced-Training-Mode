@@ -58,3 +58,4 @@ If you have any problems with the guide, try joining the Painthouse Discord (htt
 # Contact
 If you have any questions, comments, or concerns, feel free to drop me a DM on twitter (@Linyoa). I always love hearing your feedback and ideas!
 And, as always, the order form if you'd like to purchase one is here: https://twitter.com/Linyoa/status/1092257000635944961
+For help with the 3D Printed case provided by ssbvertigo, hit him up on twitter https://twitter.com/SsbVertigo Also, be sure to give him a follow!
